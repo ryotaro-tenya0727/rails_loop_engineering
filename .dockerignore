@@ -1,6 +1,12 @@
 .git
+.bundle
+.cache
 log/*
 tmp/*
 storage/*
 vendor/bundle
 node_modules
+coverage
+.yardoc
+.sass-cache
+public/assets

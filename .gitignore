@@ -1,0 +1,22 @@
+# Ruby and Bundler caches
+/.bundle/
+/vendor/bundle/
+
+# JavaScript dependency and tool caches
+/node_modules/
+/node_modules/.cache/
+/.cache/
+
+# Rails runtime and cache files
+/tmp/cache/
+/tmp/pids/
+/tmp/storage/
+/log/*.log
+
+# Generated analysis and coverage caches
+/coverage/
+/.yardoc/
+/.sass-cache/
+
+# Generated assets
+/public/assets/
